@@ -1,5 +1,5 @@
 
-# 🛒 Data Digger
+# 📊 Data Digger
 ---
 ## 🎯 Objective
 
@@ -223,7 +223,7 @@ LIMIT 3;
 
 ---
 ## 🎬 Project Demonstration
-  <a href="https://drive.google.com/file/d/1781iWGQnR5wl3g6YXZWYUjzmnSNTo3sY/view?usp=sharing">
+  <a href="">
     <img src="https://img.shields.io/badge/🎬%20Project%20Video-success?style=for-the-badge">
   </a>
 </p>
