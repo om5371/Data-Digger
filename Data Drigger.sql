@@ -22,10 +22,6 @@ VALUES
 (5, 'David', 'david@gmail.com', 'Gandhinagar');
 
 
--- =========================================
--- ORDERS
--- =========================================
-
 CREATE TABLE Orders (
     OrderID INT PRIMARY KEY,
     CustomerID INT NOT NULL,
